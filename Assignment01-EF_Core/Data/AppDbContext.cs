@@ -15,5 +15,6 @@ namespace Assignment01_EF_Core.Data
             optionsBuilder.UseSqlServer(
     @"Server=.\MSSQLSERVER01;Database=ReadMoreBooksDB;Trusted_Connection=True;TrustServerCertificate=True");
         }
+
     }
 }
