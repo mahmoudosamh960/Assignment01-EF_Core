@@ -15,4 +15,5 @@ namespace Assignment01_EF_Core.Models
 
         public ICollection<Book> Books { get; set; }
     }
+
 }
