@@ -17,4 +17,5 @@ namespace Assignment01_EF_Core.Models
         public ICollection<Author> Authors { get; set; }
         public ICollection<Category> Categories { get; set; }
     }
+
 }
